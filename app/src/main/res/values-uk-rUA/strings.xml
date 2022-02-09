@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VoiceChanger</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Сохранёное</string>
+    <string name="title_notifications">Звонок</string>
+    <string name="start">▶</string>
+    <string name="pause">❚❚</string>
+    <string name="audio_record">Ваша запись:</string>
+    <string name="par1">Ревебрация</string>
+    <string name="call">Текущий звонок</string>
+</resources>
